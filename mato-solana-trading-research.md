@@ -197,3 +197,7 @@ That last block is exactly what the six paid walkthroughs are for. This note doe
 ---
 
 *Written 27 August 2026. Figures from DefiLlama and third-party news are snapshots or reports, not a trader survey. Do not treat this as a reason to open a leveraged position or as a Mato performance claim.*
+
+---
+
+Licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
