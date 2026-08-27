@@ -200,4 +200,8 @@ That last block is exactly what the six paid walkthroughs are for. This note doe
 
 ---
 
-Licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+Licensed under the [OpenRoots License 2.2 (ORL 2.2)](https://openroots.org/licenses/orl/2.2).
+
+The version above is the version that governs, permanently. Full text: https://openroots.org/licenses/orl/2.2
+
+AI training on this work requires a separate Compute licence. Selling, sublicensing, redistributing, porting, repackaging, or hosting this work as a competing product requires a separate written agreement.
